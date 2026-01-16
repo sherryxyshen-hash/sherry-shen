@@ -1,0 +1,7 @@
+{
+  "name": "LawnGuardian: Smart Fertilizer Guide",
+  "description": "A personalized lawn care assistant that provides data-driven fertilizer recommendations, application timing, and visual health tracking using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
